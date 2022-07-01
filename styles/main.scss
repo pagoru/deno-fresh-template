@@ -1,0 +1,23 @@
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2em 1em;
+    align-items: center;
+    align-content: center;
+    max-width: 800px;
+    margin: auto;
+    height: 100%;
+    gap: 1em;
+
+    h4 {
+        width: 100%;
+        text-align: center;
+        color: white;
+    }
+    img {
+        width: 10em;
+        margin: auto;
+    }
+    @import "form";
+}

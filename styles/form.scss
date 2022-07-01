@@ -1,0 +1,20 @@
+
+.form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+
+    button {
+        background-color: white;
+        border: 0;
+        border-radius: 10px;
+        cursor: pointer;
+        padding: .5em 1em;
+    }
+    label {
+        color: white;
+        font-weight: 600;
+    }
+}

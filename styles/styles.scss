@@ -1,0 +1,15 @@
+
+:root {
+    --color-green: #86efac;
+}
+
+* {
+    font-size: 20px;
+    font-family: ui-sans-serif,system-ui,sans-serif;
+}
+
+body {
+    background-color: var(--color-green);
+
+    @import "main";
+}
