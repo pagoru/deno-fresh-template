@@ -4,6 +4,6 @@
     "preact": "https://esm.sh/preact@10.8.1",
     "preact/": "https://esm.sh/preact@10.8.1/",
     "preact-render-to-string": "https://esm.sh/preact-render-to-string@5.2.0?deps=preact@10.8.1",
-    "sass": "https://deno.land/x/denosass/mod.ts"
+    "sass": "https://deno.land/x/denosass@1.0.4/mod.ts"
   }
 }
